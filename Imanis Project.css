@@ -24,7 +24,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: red; /* For browsers that do not support gradients */
-    background-image: linear-gradient(to right, red, yellow); /* Standard syntax (must be last) */
+    background-image: linear-gradient(to right, orange, yellow); /* Standard syntax (must be last) */
     
 }
 	
